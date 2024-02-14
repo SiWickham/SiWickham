@@ -13,4 +13,4 @@ I'm an experienced NHS analyst with over 6 years experience of working across ac
 R and RStudio: Having previous experience with coding languages, e.g. SQL, it has been interesting to learn how a new language works in comparison and how base R varies from other packages like tidyr. I have started exploring different visuals and functions to develop RMarkdown reports as part of my portfolio.
 
 # 📫 Get in Touch
-I'm always interested in connecting with others with an interest is healthcare analysis. Please drop me a message on [Twitter](https://twitter.com/SiWickhamNHS) or [LinkedIn]()
+I'm always interested in connecting with others with an interest is healthcare analysis. Please drop me a message on [Twitter](https://twitter.com/SiWickhamNHS)
