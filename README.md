@@ -2,7 +2,7 @@
 Welcome to my GitHub profile.
 
 # 👨‍🦱 About me (He/Him)
-I'm an experienced NHS analyst with over 6 years experience of working across acute and commissioning bodies across the health and care sector. I am passionate about leveraging public health and provider data to improve decision-making across healthcare. I have a masters degree in Physics and relish a rich data source to interrogate. I currently work for the NHS Transformation Unit working on a variety of projects from modelling demand and capacity to developing comprehensive baselines of populations or systems to developing dashboards for organisation or system oversight. Take a look at our GitHub page to learn more.
+I'm an experienced NHS analyst with over 6 years experience of working across acute and commissioning bodies across the health and care sector. I am passionate about leveraging public health and provider data to improve decision-making across healthcare. I have a masters degree in Physics and relish a rich data source to interrogate. I am proficient in utilizing Statistical Process Control (SPC) methodology to drive project success. I currently work for the NHS Transformation Unit on a variety of projects from modelling demand and capacity to developing comprehensive baselines of populations or systems to developing dashboards for organisation or system oversight. Take a look at our GitHub page to learn more.
 
 # 🔨 What I'm working on
 * Estates Infrastructure: Using Power BI to undertake analysis on a range of estates related data, to inform current building backlog costs and predict future estates spend. I don't often use Power BI but find it a useful tool that organisations are familiar with, which aids engagement.
